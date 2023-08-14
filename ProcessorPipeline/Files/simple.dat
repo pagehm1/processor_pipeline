@@ -1,0 +1,9 @@
+ADD.i A, 0x0005
+LD.i X, 0x0004
+SUB.r A, X
+ST.m 0x1000, X
+OR.i X, 0x00FF
+NOT.r X
+LD.m Y, 0x1000
+AND.r X, Y
+YD

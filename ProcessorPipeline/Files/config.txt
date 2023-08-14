@@ -1,0 +1,11 @@
+add: 4
+sub: 4
+and: 3
+or: 3
+xor: 3
+neg: 3
+not: 3
+ubr: 4
+yd: 1
+ld: 2
+st: 2
